@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FiveGuys">
+        <item >FG1</item>
+        <item >FG2</item>
+    </string-array>
+    <string-array name="BurgurKing">
+        <item >BK1</item>
+        <item >BK2</item>
+    </string-array>
+    <string-array name="Subway">
+        <item >S1</item>
+        <item >S2</item>
+    </string-array>
+    
+</resources>

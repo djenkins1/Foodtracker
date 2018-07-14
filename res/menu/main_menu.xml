@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" android:title="Compare With..." android:titleCondensed="Compare">
+        <menu>
+        </menu>
+    </item>
+    <item android:id="@+id/item3" android:title="View on Map"></item>
+    <item android:id="@+id/item2" android:title="Filter/sort menu"></item>
+    <item android:id="@+id/item4" android:title="View Website"></item>
+    
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foodtracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_resturants">ViewResturants</string>
+    <string name="title_activity_view_facts">ViewFacts</string>
+    <string name="title_activity_compare">CompareActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_view_web">ViewWebsite</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
